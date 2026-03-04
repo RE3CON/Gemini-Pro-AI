@@ -1,0 +1,5 @@
+{
+  "name": "Google AI Identity Hardener",
+  "description": "A tool to generate and manage the ultimate Chrome fingerprint hardening script for Google AI services.",
+  "requestFramePermissions": []
+}
